@@ -1,3 +1,7 @@
+"""
+Simple LLM Chain with Ollama
+"""
+
 import streamlit as st
 from langchain_community.llms.ollama import Ollama
 from langchain.chains import LLMChain

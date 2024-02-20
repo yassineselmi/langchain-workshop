@@ -1,0 +1,8 @@
+streamlit
+streamlit-chat
+langchain
+langchain-openai
+huggingface_hub
+chromadb
+sentence-transformers
+PyPDF2==3.0.1

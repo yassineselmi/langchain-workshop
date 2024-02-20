@@ -1,5 +1,0 @@
-streamlit
-streamlit-chat
-langchain
-langchain-openai
-huggingface_hub

@@ -1,8 +1,10 @@
+"""
+Simple LLM Chain with Hugging Face models
+"""
 import streamlit as st
 from langchain_community.llms.huggingface_hub  import HuggingFaceHub
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
-from langchain.callbacks.base import BaseCallbackHandler
 
 
 st.set_page_config(page_title="LLMChain QA", page_icon="💬")
